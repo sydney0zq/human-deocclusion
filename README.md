@@ -1,4 +1,4 @@
-# (CVPR 2021) Human De-occlusion: Invisible Perception and Recovery for Humans
+# Human De-occlusion: Invisible Perception and Recovery for Humans
 
 ## Abstract
 
